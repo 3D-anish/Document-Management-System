@@ -1,11 +1,11 @@
 # Document Management System 
 
 
-## 👥 Team
-Your Name – Utsav Lakhani 
+## 👥 Team 
 - Teammate 1 – Dhaval Solanki 
 - Teammate 2 – Anish Shah
 - Teammate 3 – Dhrumil Vaghela
+- Teammate 4 - Utsav Lakhani
 
 ## 🏆 Hackathon Details
 - Event: Hackathon Name
