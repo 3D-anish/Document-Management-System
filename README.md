@@ -8,7 +8,7 @@
 - Teammate 4 - Utsav Lakhani
 
 ## 🏆 Hackathon Details
-- Event: Hackathon Name
+- Event: Hackovate LJ
 - Track: AI / Responsible Tech
 
 ## 📌 Project Overview
